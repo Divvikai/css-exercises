@@ -1,0 +1,20 @@
+.norm,
+.normbig {
+    background-color: rgb(224, 150, 162);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#withoutbackground {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.norm.big,
+#boldgreen {
+    font-size: 24px;
+}
+
+#boldgreen {
+    background-color: hsl(120, 73%, 75%);
+    font-weight:bold;
+}
